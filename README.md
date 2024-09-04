@@ -1,4 +1,10 @@
-# Nillion Python Starter <a href="https://github.com/NillionNetwork/nillion-python-starter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+# Nillion Secret Comparison with API response
+Using nillion nada to perform MPC secret comparison against data returned from Bureau of Labor Statistics American Time Use Survey
+
+
+
+------------------- original README from nillion python starter ------------------
+Nillion Python Starter <a href="https://github.com/NillionNetwork/nillion-python-starter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
 This is a python starter repo for building on the Nillion Network. Complete environment setup, then run the examples:
 
